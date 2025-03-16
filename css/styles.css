@@ -120,19 +120,20 @@ a {
 /*-----Selection-ourteam-------*/
 
 .ourteam {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 .ourteam-title {
   font-weight: 700;
   font-size: 36px;
-
+  text-transform: capitalize;
   /* line-height: 40px; */
-  line-height: 1.12;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
 }
 .ourteam-list {
+  background-color: #ffffff;
 }
 .ourteam-item {
 }
@@ -207,7 +208,7 @@ a {
 .page-footer {
   background-color: #2e2f42;
 }
-.logotype {
+.logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
