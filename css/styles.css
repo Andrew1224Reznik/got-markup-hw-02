@@ -27,10 +27,6 @@ a {
   color: #2e2f42;
 }
 
-.footer-logo .logo-part {
-  color: #f4f4fd;
-}
-
 .nav-link {
   font-weight: 500;
   font-size: 16px;
@@ -169,21 +165,19 @@ a {
 /*-----Selection-ourportfolio-------*/
 
 .ourportfolio {
-  background-color: #ffffff;
 }
 
 .ourportfolio-title {
-  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
-
-  /* line-height: 40px; */
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .ourportfolio-list {
+  background-color: #ffffff;
 }
 .ourportfolio-item {
 }
@@ -211,9 +205,9 @@ a {
 /*-----Selection-ourportfolio-------*/
 
 .page-footer {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
-.logo {
+.logotype {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -226,11 +220,8 @@ a {
 .footer-logo .logo-part {
   color: #f4f4fd;
 }
-.footer-text {
-  font-weight: 400;
-  font-size: 16px;
 
-  /* line-height: 24px; */
+.text {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
